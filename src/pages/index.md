@@ -1,71 +1,113 @@
 ---
-title: Home
+title: Queens College
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
-    align: left
-    image: images/hero.svg
+    title: Queens College School Of Business
+    subtitle: The Business School of tomorrow in today's Queens
+    actions: []
+    align: center
     image_alt: Hero placeholder image
-    image_position: right
-    has_background: true
+    image_position: left
+    has_background: false
     background:
-      background_color: blue
-      background_image: images/diagonal-lines.svg
+      background_color: gray
       background_image_opacity: 20
-      background_image_size: auto
-      background_image_repeat: repeat
+      background_image_size: cover
+      background_image_repeat: no-repeat
+    image: images/Qbusiness.jpg
   - type: features_section
-    title: Features
+    title: Our Programs
     features:
-      - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - title: BBA in Finance
+        content: >
+          Global explosion of digital technology have dramatically changed what
+          employers expect of new college graduates. Students wishing to pursue
+          a career in finance must be able to answer job interview questions
+          about capital structure, the CAPM, machine learning, forecasting,
+          cryptocurrency, and stock market efficiency. Finance professionals are
+          assumed to know how to work with financial models using Python.
         align: left
-        image: images/feature.svg
+        image: images/fintech.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+      - title: BBA in International Business
+        content: >
+          The **BBA in International Business** prepares graduates to deal
+          effectively with the complexities of global business environments. It
+          combines the dynamics of multinational business environments with
+          creative problem solving, team building, presentation skills,
+          strategic planning, and the use of data analysis to solve business
+          problems.
         align: left
-        image: images/feature.svg
+        image: images/ib.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+      - title: BBA in Actuarial Studies for Business
+        content: >
+          This major prepares students for a career path in the insurance
+          industry, as well as for a series of actuarial examinations. These
+          examinations test an individual’s competence in probability, calculus,
+          statistics, and other branches of mathematics
         align: left
-        image: images/feature.svg
+        image: images/actuary.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
           - label: Learn More
             url: /features
             style: secondary
+      - title: BBA in Business & Policy Analysis (forthcoming Fall 2022)
+        content: >
+          The major prepares students to be responsible for examining the
+          efficacy of existing policies and laying out the groundwork for new
+          programs and legislation, reviewing and amending policy drafts and
+          proposing suggestions to improve the effects of existing policies,
+          work closely with stakeholders to determine the goals and objectives
+          of policies. Students gain understanding of the industry and market
+          conditions and develop strong organization and analytical skills.
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
+        image: images/magical-kangaroo.jpg
+      - title: BS in Quantitative Economics
+        content: >
+          B.Sc. in **Quantitative Economics** is a STEM-eligible program for
+          students interested in developing strong quantitative skills through
+          course work in economics, mathematics, and computer science. It is
+          recommended for students interested in careers that require
+          data-intensive analysis in economics, business, or finance, and for
+          those planning graduate studies in economics or who wish to engage in
+          careers in economic research.
+        align: left
+        image_alt: lorem-ipsum
+        image_position: right
+        actions: []
+        type: feature
+        image: images/quant.jpg
+      - title: BA in Accounting
+        content: >
+          The **BA in Accounting** prepares students for careers in public,
+          private, or governmental accounting. Majors study a complex discipline
+          responsive to the changing economic, social, and legal institutional
+          arrangements necessary to the functioning  of digital society. The
+          functions of accountants encompass ever-evolving and expanding spheres
+          of activity.
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
+        image: images/accouting.jpg
   - type: blog_feed_section
     title: What's New
     show_recent: true

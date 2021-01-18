@@ -1,26 +1,26 @@
 {
-    "description": "An ultra customizable generic theme for Stackbit",
+    "description": "Queens College School of Business",
     "header": {
-        "title": "Starter",
+        "title": "Queens College",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
+                "label": "Faculty",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "Economics",
                 "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Accounting",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Student Resources",
                 "url": "/style-guide",
                 "style": "link"
             },
@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/qc-logo.jpg"
     },
     "footer": {
         "has_nav": true,
@@ -68,5 +69,5 @@
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "title": "Stackbit Starter Theme"
+    "title": "QC Business"
 }
