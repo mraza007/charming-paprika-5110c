@@ -44,7 +44,7 @@ sections:
           presentation skills, strategic planning, and the use of data analysis
           to solve business problems.
         align: left
-        image: images/feature.svg
+        image: images/policy.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
