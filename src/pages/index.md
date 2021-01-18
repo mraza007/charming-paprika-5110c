@@ -64,7 +64,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: 'BBA in Business & Policy Analysis (forthcoming Fall 2022):'
         content: >-
           ## Lorem ipsum
 
