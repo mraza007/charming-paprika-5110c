@@ -79,7 +79,7 @@ sections:
         actions: []
         type: feature
         image: images/magical-kangaroo.jpg
-      - title: lorem-ipsum
+      - title: ' B.Sc. in Quantitative Economics'
         content: >-
           ## Lorem ipsum
 
