@@ -3,7 +3,7 @@ title: Queens College
 sections:
   - type: hero_section
     title: Queens College School Of Business
-    subtitle: The Business School of tomorrow in today's Queens
+    subtitle: '### The Business School of tomorrow in today''s Queens'
     actions: []
     align: center
     image_alt: Hero placeholder image
