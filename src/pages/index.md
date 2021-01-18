@@ -11,7 +11,6 @@ sections:
     has_background: true
     background:
       background_color: gray
-      background_image: images/ezgif.com-video-to-gif.gif
       background_image_opacity: 20
       background_image_size: cover
       background_image_repeat: no-repeat
