@@ -126,7 +126,7 @@ sections:
         actions: []
         type: feature
         image: images/econ.jpg
-      - title: lorem-ipsum
+      - title: Graduate Program in Risk Management
         content: >-
           ## Lorem ipsum
 
