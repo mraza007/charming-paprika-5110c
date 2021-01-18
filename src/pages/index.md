@@ -81,7 +81,7 @@ sections:
         image: images/magical-kangaroo.jpg
       - title: BS in Quantitative Economics
         content: >
-          B.Sc. in \*\*Quantitative Economics\*\* is a STEM-eligible program for
+          B.Sc. in **Quantitative Economics** is a STEM-eligible program for
           students interested in developing strong quantitative skills through
           course work in economics, mathematics, and computer science. It is
           recommended for students interested in careers that require
