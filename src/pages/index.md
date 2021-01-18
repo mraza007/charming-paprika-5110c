@@ -109,17 +109,17 @@ sections:
         type: feature
         image: images/accouting.jpg
       - title: BA in Economics
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          **BA in Economics **major allows students to acquire skills in
+          economic theory, statistical methods, and critical thinking to
+          understand consumer and firm behavior and evaluate the impact of
+          economic policy. Our majors learn skills that allow them to work
+          successfully in government, financial services, insurance, business,
+          and health administration. Courses in economics prepare students for
+          graduate work in economics, business, and public administration and
+          for professional schools such as law, journalism, and social work.
+          Majors in economics are also able to prepare to teach economics or
+          social studies on a secondary level.
         align: left
         image_alt: lorem-ipsum
         image_position: left
