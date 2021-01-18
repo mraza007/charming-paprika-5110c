@@ -52,10 +52,11 @@ sections:
             url: /features
             style: secondary
       - title: BBA in Actuarial Studies for Business
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          ###### This major prepares students for a career path in the insurance
+          industry, as well as for a series of actuarial examinations. These
+          examinations test an individual’s competence in probability, calculus,
+          statistics, and other branches of mathematics
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
