@@ -36,12 +36,12 @@ sections:
             style: secondary
       - title: BBA in International Business
         content: >
-          ###### The **BBA in International Business** prepares graduates to
-          deal effectively with the complexities of global business
-          environments. It combines the dynamics of multinational business
-          environments with creative problem solving, team building,
-          presentation skills, strategic planning, and the use of data analysis
-          to solve business problems.
+          The **BBA in International Business** prepares graduates to deal
+          effectively with the complexities of global business environments. It
+          combines the dynamics of multinational business environments with
+          creative problem solving, team building, presentation skills,
+          strategic planning, and the use of data analysis to solve business
+          problems.
         align: left
         image: images/policy.jpg
         image_alt: Feature 2 placeholder image
