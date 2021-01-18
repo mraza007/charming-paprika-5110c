@@ -19,10 +19,30 @@ sections:
     title: Our Programs
     features:
       - title: BBA in Finance
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Global explosion of digital technology have dramatically changed what
+          employers expect of new college graduates. Students wishing to pursue
+          a career in finance must be able to answer job interview questions
+          about capital structure, the CAPM, machine learning, forecasting,
+          cryptocurrency, and stock market efficiency. Finance professionals are
+          assumed to know how to work with financial models using Python. The
+          BBA degree in finance will help you master the skills investment
+          banks, commercial banks, consulting firms, and other businesses
+          desiring financial expertise demand of their employees. Students who
+          choose the finance major will gain an understanding of the basic
+          concepts involved in financial decision-making. The curriculum
+          provides students with opportunities to practice what is taught
+          through real-world applications based on spreadsheet modeling,
+          forecasting, regression analysis, and firm valuation. The major
+          prepares students for future graduate study in business, as well as
+          equipping them to gain the business experience necessary to pursue a
+          graduate degree. Students choosing the Corporate Finance Concentration
+          take three core courses in finance, which provide them with the
+          essential skills needed to pursue careers in finance, and then choose
+          among a wide set of electives that range from studying options and
+          futures markets to international finance to multinational
+          corporations. This concentration prepares students for such positions
+          as financial service representative or financial manager.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
