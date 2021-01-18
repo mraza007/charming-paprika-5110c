@@ -3,7 +3,7 @@ title: Queens College
 sections:
   - type: hero_section
     title: Queens College
-    subtitle: ''
+    subtitle: School In todays queens
     actions: []
     align: center
     image_alt: Hero placeholder image
