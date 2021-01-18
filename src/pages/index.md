@@ -95,17 +95,13 @@ sections:
         type: feature
         image: images/quant.jpg
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The** BA in Accounting** prepares students for careers in public,
+          private, or governmental accounting. Majors study a complex discipline
+          responsive to the changing economic, social, and legal institutional
+          arrangements necessary to the functioning  of digital society. The
+          functions of accountants encompass ever-evolving and expanding spheres
+          of activity. 
         align: left
         image_alt: lorem-ipsum
         image_position: left
