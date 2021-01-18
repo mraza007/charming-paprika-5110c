@@ -76,7 +76,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        align: left
+        align: right
         image_alt: lorem-ipsum
         image_position: left
         actions: []
