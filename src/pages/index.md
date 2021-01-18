@@ -108,7 +108,7 @@ sections:
         actions: []
         type: feature
         image: images/accouting.jpg
-      - title: lorem-ipsum
+      - title: BA in Economics
         content: >-
           ## Lorem ipsum
 
