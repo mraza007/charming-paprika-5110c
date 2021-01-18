@@ -6,7 +6,6 @@ sections:
     subtitle: ''
     actions: []
     align: center
-    image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
