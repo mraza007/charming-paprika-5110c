@@ -150,9 +150,5 @@ sections:
         actions: []
         type: feature
         image: images/risk.jpg
-  - title: lorem-ipsum
-    team:
-      - src/data/team/person-arazhw13s.json
-    type: team_section
 template: advanced
 ---
