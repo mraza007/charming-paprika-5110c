@@ -1,0 +1,9 @@
+{
+    "id": "lorem-ipsum",
+    "link": "lorem-ipsum",
+    "first_name": "lorem-ipsum",
+    "last_name": "lorem-ipsum",
+    "photo_alt": "lorem-ipsum",
+    "bio": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+    "type": "person"
+}
