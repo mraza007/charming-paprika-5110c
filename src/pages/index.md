@@ -79,7 +79,7 @@ sections:
         actions: []
         type: feature
         image: images/magical-kangaroo.jpg
-      - title: Quantitative Economics
+      - title: BS in Quantitative Economics
         content: >-
           ## Lorem ipsum
 
