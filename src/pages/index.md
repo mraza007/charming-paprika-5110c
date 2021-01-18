@@ -27,7 +27,7 @@ sections:
           learning, forecasting, cryptocurrency, and stock market efficiency.
           Finance professionals are assumed to know how to work with financial
           models using Python.
-        align: left
+        align: center
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
