@@ -8,7 +8,7 @@ sections:
     align: center
     image_alt: Hero placeholder image
     image_position: left
-    has_background: false
+    has_background: true
     background:
       background_color: gray
       background_image: images/ezgif.com-video-to-gif.gif
