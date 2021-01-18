@@ -36,10 +36,13 @@ sections:
             url: /features
             style: secondary
       - title: BBA in International Business
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          ###### The **BBA in International Business** prepares graduates to
+          deal effectively with the complexities of global business
+          environments. It combines the dynamics of multinational business
+          environments with creative problem solving, team building,
+          presentation skills, strategic planning, and the use of data analysis
+          to solve business problems.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
