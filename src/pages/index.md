@@ -2,7 +2,7 @@
 title: Queens College
 sections:
   - type: hero_section
-    title: Queens College School Of
+    title: Queens College School Of Business
     subtitle: School In todays queens
     actions: []
     align: center
