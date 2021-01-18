@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/logo.png"
     },
     "footer": {
         "has_nav": true,
