@@ -20,13 +20,12 @@ sections:
     features:
       - title: BBA in Finance
         content: >
-          ###### Global explosion of digital technology have dramatically
-          changed what employers expect of new college graduates. Students
-          wishing to pursue a career in finance must be able to answer job
-          interview questions about capital structure, the CAPM, machine
-          learning, forecasting, cryptocurrency, and stock market efficiency.
-          Finance professionals are assumed to know how to work with financial
-          models using Python.
+          Global explosion of digital technology have dramatically changed what
+          employers expect of new college graduates. Students wishing to pursue
+          a career in finance must be able to answer job interview questions
+          about capital structure, the CAPM, machine learning, forecasting,
+          cryptocurrency, and stock market efficiency. Finance professionals are
+          assumed to know how to work with financial models using Python.
         align: left
         image: images/fintech.jpg
         image_alt: Feature 1 placeholder image
