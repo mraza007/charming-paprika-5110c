@@ -43,7 +43,7 @@ sections:
           strategic planning, and the use of data analysis to solve business
           problems.
         align: left
-        image: images/policy.jpg
+        image: images/ib.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
