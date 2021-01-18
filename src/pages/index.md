@@ -65,17 +65,14 @@ sections:
             url: /features
             style: secondary
       - title: BBA in Business & Policy Analysis (forthcoming Fall 2022)
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The major prepares students to be responsible for examining the
+          efficacy of existing policies and laying out the groundwork for new
+          programs and legislation, reviewing and amending policy drafts and
+          proposing suggestions to improve the effects of existing policies,
+          work closely with stakeholders to determine the goals and objectives
+          of policies. Students gain understanding of the industry and market
+          conditions and develop strong organization and analytical skills.
         align: left
         image_alt: lorem-ipsum
         image_position: left
