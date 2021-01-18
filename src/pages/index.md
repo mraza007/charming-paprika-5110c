@@ -58,7 +58,7 @@ sections:
           examinations test an individual’s competence in probability, calculus,
           statistics, and other branches of mathematics
         align: left
-        image: images/feature.svg
+        image: images/actuary.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
