@@ -5,7 +5,7 @@ sections:
     title: ''
     subtitle: ''
     actions: []
-    align: left
+    align: center
     image: images/hero.svg
     image_alt: Hero placeholder image
     image_position: left
