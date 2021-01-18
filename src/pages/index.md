@@ -80,17 +80,14 @@ sections:
         type: feature
         image: images/magical-kangaroo.jpg
       - title: BS in Quantitative Economics
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          B.Sc. in \*\*Quantitative Economics\*\* is a STEM-eligible program for
+          students interested in developing strong quantitative skills through
+          course work in economics, mathematics, and computer science. It is
+          recommended for students interested in careers that require
+          data-intensive analysis in economics, business, or finance, and for
+          those planning graduate studies in economics or who wish to engage in
+          careers in economic research.
         align: left
         image_alt: lorem-ipsum
         image_position: right
