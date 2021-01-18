@@ -39,14 +39,9 @@
                 "label": "Contact Us",
                 "url": "/contact",
                 "style": "link"
-            },
-            {
-                "label": "Privacy and Terms",
-                "url": "/terms",
-                "style": "link"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
@@ -67,7 +62,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=starter&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Queens College. All rights reserved."
     },
     "title": "QC Business"
 }

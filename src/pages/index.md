@@ -108,20 +108,47 @@ sections:
         actions: []
         type: feature
         image: images/accouting.jpg
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
-  - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
+      - title: BA in Economics
+        content: >
+          **BA in Economics **major allows students to acquire skills in
+          economic theory, statistical methods, and critical thinking to
+          understand consumer and firm behavior and evaluate the impact of
+          economic policy. Our majors learn skills that allow them to work
+          successfully in government, financial services, insurance, business,
+          and health administration. Courses in economics prepare students for
+          graduate work in economics, business, and public administration and
+          for professional schools such as law, journalism, and social work.
+          Majors in economics are also able to prepare to teach economics or
+          social studies on a secondary level.
+        align: left
+        image_alt: lorem-ipsum
+        image_position: right
+        actions: []
+        type: feature
+        image: images/econ.jpg
+      - title: Graduate Program in Risk Management
+        content: >
+          Leverage your interest in finance with a Master’s degree or a
+          12-credit Advanced Certificate in Risk Management, a field with
+          rapidly growing career possibilities on Wall Street and across every
+          sector.  The M.S. in Risk Management​ takes 30 credits to complete, if
+          a student has met all prerequisites. Students choose one of four areas
+          of concentration: Finance, International Business, Accounting, or
+          Actuarial Studies. 
+
+
+          Study in a top program that’s affordable—and in close proximity to the
+          world’s capital markets.
+
+
+          Our graduates go on to careers in major financial institutions as well
+          as industry, government, consulting, assurance, and audit and
+          actuarial services.
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
+        image: images/risk.jpg
 template: advanced
 ---
