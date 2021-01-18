@@ -18,7 +18,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: BBA in Finance
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
