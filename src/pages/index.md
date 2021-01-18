@@ -2,7 +2,7 @@
 title: Queens College
 sections:
   - type: hero_section
-    title: ''
+    title: Queens College
     subtitle: ''
     actions: []
     align: center
