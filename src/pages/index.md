@@ -51,7 +51,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: 'BBA in Actuarial Studies for Business '
+      - title: BBA in Actuarial Studies for Business
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
