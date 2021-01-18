@@ -127,17 +127,23 @@ sections:
         type: feature
         image: images/econ.jpg
       - title: Graduate Program in Risk Management
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Leverage your interest in finance with a Master’s degree or a
+          12-credit Advanced Certificate in Risk Management, a field with
+          rapidly growing career possibilities on Wall Street and across every
+          sector.  The M.S. in Risk Management​ takes 30 credits to complete, if
+          a student has met all prerequisites. Students choose one of four areas
+          of concentration: Finance, International Business, Accounting, or
+          Actuarial Studies. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Study in a top program that’s affordable—and in close proximity to the
+          world’s capital markets.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Our graduates go on to careers in major financial institutions as well
+          as industry, government, consulting, assurance, and audit and
+          actuarial services.
         align: left
         image_alt: lorem-ipsum
         image_position: left
