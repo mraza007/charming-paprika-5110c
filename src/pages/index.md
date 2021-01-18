@@ -150,5 +150,8 @@ sections:
         actions: []
         type: feature
         image: images/risk.jpg
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 template: advanced
 ---
