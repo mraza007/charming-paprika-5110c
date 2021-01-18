@@ -33,7 +33,7 @@
         "logo": "images/qc-logo.jpg"
     },
     "footer": {
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Contact Us",
