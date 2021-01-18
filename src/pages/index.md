@@ -8,7 +8,7 @@ sections:
     align: center
     image_alt: Hero placeholder image
     image_position: left
-    has_background: true
+    has_background: false
     background:
       background_color: gray
       background_image_opacity: 20
