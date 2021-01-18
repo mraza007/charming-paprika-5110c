@@ -3,7 +3,7 @@ title: Queens College
 sections:
   - type: hero_section
     title: Queens College School Of Business
-    subtitle: The Business School of tom
+    subtitle: The Business School of tomorrow
     actions: []
     align: center
     image_alt: Hero placeholder image
