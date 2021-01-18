@@ -91,7 +91,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        align: right
+        align: left
         image_alt: lorem-ipsum
         image_position: left
         actions: []
