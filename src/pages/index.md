@@ -94,7 +94,7 @@ sections:
         actions: []
         type: feature
         image: images/quant.jpg
-      - title: lorem-ipsum
+      - title: BA in Accounting
         content: >
           The **BA in Accounting** prepares students for careers in public,
           private, or governmental accounting. Majors study a complex discipline
