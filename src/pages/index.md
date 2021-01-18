@@ -28,7 +28,7 @@ sections:
           Finance professionals are assumed to know how to work with financial
           models using Python.
         align: left
-        image: images/feature.svg
+        image: images/fintech.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
