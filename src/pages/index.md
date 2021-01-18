@@ -16,7 +16,7 @@ sections:
       background_image_repeat: no-repeat
     image: images/Qbusiness.jpg
   - type: features_section
-    title: Features
+    title: Our Programs
     features:
       - title: BBA in Finance
         content: >-
