@@ -3,9 +3,7 @@ title: Queens College
 sections:
   - type: hero_section
     title: ''
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     actions:
       - label: Learn More
         url: /features
