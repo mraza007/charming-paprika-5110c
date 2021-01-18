@@ -8,7 +8,7 @@ sections:
     align: center
     image: images/hero.svg
     image_alt: Hero placeholder image
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: white
