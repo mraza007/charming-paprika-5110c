@@ -96,12 +96,12 @@ sections:
         image: images/quant.jpg
       - title: lorem-ipsum
         content: >
-          The** BA in Accounting** prepares students for careers in public,
+          The **BA in Accounting** prepares students for careers in public,
           private, or governmental accounting. Majors study a complex discipline
           responsive to the changing economic, social, and legal institutional
           arrangements necessary to the functioning  of digital society. The
           functions of accountants encompass ever-evolving and expanding spheres
-          of activity. 
+          of activity.
         align: left
         image_alt: lorem-ipsum
         image_position: left
