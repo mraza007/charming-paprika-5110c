@@ -6,7 +6,7 @@ sections:
     subtitle: The Business School of tomorrow in today's Queens
     actions: []
     align: center
-    image_alt: Hero placeholder image
+    image_alt: Queens College Business
     image_position: left
     has_background: true
     image: images/Qbusiness.jpg
