@@ -11,7 +11,7 @@ sections:
     has_background: true
     image: images/Qbusiness.jpg
     background:
-      background_color: white
+      background_color: gray
       background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
