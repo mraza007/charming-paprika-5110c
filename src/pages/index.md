@@ -9,7 +9,7 @@ sections:
     align: center
     image_alt: Queens College Business
     image_position: left
-    has_background: false
+    has_background: true
     image: images/ezgif.com-video-to-gif.gif
     background:
       background_image: >-
