@@ -9,7 +9,7 @@ sections:
     image_alt: Queens College Business
     image_position: left
     has_background: true
-    image: images/Qbusiness.jpg
+    image: images/ezgif.com-video-to-gif.gif
     background:
       background_image: images/diagonal-lines.svg
       background_color: gray
