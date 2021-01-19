@@ -10,11 +10,6 @@ sections:
     image_position: left
     has_background: true
     image: images/Qbusiness.jpg
-    background:
-      background_color: white
-      background_image_opacity: 0
-      background_image_size: cover
-      background_image_repeat: no-repeat
   - type: features_section
     title: Our Programs
     features:
