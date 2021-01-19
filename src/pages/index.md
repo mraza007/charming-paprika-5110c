@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Queens College School Of Business
     subtitle: The Business School of tomorrow in today's Queens
+    color: white
     actions: []
     align: center
     image_alt: Queens College Business
