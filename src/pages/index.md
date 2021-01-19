@@ -11,6 +11,7 @@ sections:
     has_background: true
     image: images/Qbusiness.jpg
     background:
+      background_image: https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
       background_color: gray
       background_image_opacity: 0
       background_image_size: cover
