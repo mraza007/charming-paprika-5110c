@@ -9,11 +9,6 @@ sections:
     image_alt: Hero placeholder image
     image_position: left
     has_background: true
-    background:
-      background_color: gray
-      background_image_opacity: 20
-      background_image_size: cover
-      background_image_repeat: no-repeat
     image: images/Qbusiness.jpg
   - type: features_section
     title: Our Programs
