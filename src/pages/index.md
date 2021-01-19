@@ -8,7 +8,7 @@ sections:
     align: center
     image_alt: Queens College Business
     image_position: left
-    has_background: true
+    has_background: false
     image: images/Qbusiness.jpg
     background:
       background_color: white
