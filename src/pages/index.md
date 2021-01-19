@@ -8,7 +8,7 @@ sections:
     align: center
     image_alt: Hero placeholder image
     image_position: left
-    has_background: false
+    has_background: true
     image: images/Qbusiness.jpg
     background:
       background_color: white
